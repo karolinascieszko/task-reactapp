@@ -1,0 +1,25 @@
+.Quote {
+  font-family: "Quicksand", sans-serif;
+}
+
+.quote {
+  font-size: 30px;
+  font-family: "Niconne", cursive;
+  color: #fff;
+  margin-top: 80px;
+}
+
+.author {
+  margin-top: 30px;
+  font-family: "Gwendolyn", cursive;
+  font-size: 25px;
+  color: #ff8c00;
+  font-weight: 700;
+}
+
+.lackOfQuotes {
+  color: #fff;
+  font-size: 35px;
+  margin-top: 70px;
+  font-weight: 700;
+}

@@ -1,6 +1,6 @@
 .title {
   font-size: 30px;
-  font-family: "Fira Sans", cursive;
+  font-family: "Open Sans", cursive;
   text-transform: uppercase;
   color: #ff8c00;
 }
@@ -18,7 +18,7 @@
   border-radius: 5px;
   cursor: pointer;
   font-weight: 1000;
-  font-family: "Fira Sans", cursive;
+  font-family: "Open Sans", cursive;
 }
 
 .btnRandom:hover {
